@@ -27,7 +27,6 @@ langchain-community==0.0.17
 langchain-openai==0.1.1
 langchainhub==0.1.15
 Lazify==0.4.0
-literalai==0.0.103
 llama-index==0.10.20
 llama-index-agent-openai==0.1.6
 llama-index-cli==0.1.10
