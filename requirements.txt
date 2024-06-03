@@ -21,12 +21,13 @@ charset-normalizer==3.3.2
 chroma-hnswlib==0.7.3
 chromadb==0.4.24
 
-langchain==0.1.5
-langchain-community==0.0.17
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchainhub
 
-langchain-openai==0.1.1
-langchainhub==0.1.15
-Lazify==0.4.0
+
 llama-index==0.10.20
 llama-index-agent-openai==0.1.6
 llama-index-cli==0.1.10
